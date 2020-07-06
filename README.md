@@ -1,2 +1,2 @@
-# pos-web-go Trabalho Desenvolvimento Web Com Go
-**_ Aluno: Edson Junior _**
+# GO Lang
+Trabalho do curso de Pós-Graduação em Desenvolvimento Web e Dispositivos Móveis
